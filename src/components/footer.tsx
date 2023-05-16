@@ -70,7 +70,7 @@ const Footer = () => {
 					<Box sx={{ display: 'flex', mt: '2rem', ml: '-8px' }}>
 						<Box
 							component='img'
-							src='src/assets/social/RU.png'
+							src='https://i.imgur.com/KBrnBIS.png'
 							sx={{
 								width: '20px',
 								height: '20px',
@@ -102,17 +102,17 @@ const Footer = () => {
 				<Box sx={{ mr: '2rem', mt: '2rem' }}>
 					<Box
 						component='img'
-						src='src/assets/social/VK.png'
+						src='https://i.imgur.com/QEFDXgZ.png'
 						sx={{ mx: '9px', mb: '6px', cursor: 'pointer' }}
 					/>
 					<Box
 						component='img'
-						src='src/assets/social/Telegram.png'
+						src='https://i.imgur.com/wjmcriz.png'
 						sx={{ mx: '9px', cursor: 'pointer' }}
 					/>
 					<Box
 						component='img'
-						src='src/assets/social/Whatsapp.png'
+						src='https://i.imgur.com/fUZmZVc.png'
 						sx={{ mx: '9px', cursor: 'pointer' }}
 					/>
 				</Box>
